@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hierarchical Traceability Backend Solution
 
 This project provides a Python-based backend implementation of traceability computation in hierarchical references among elements. The implementation supports upward and downward references in multiple levels, is containerized via Docker, deployed in Kubernetes, and integrated with MongoDB for data storage.
@@ -204,3 +205,6 @@ Horizontal scaling is configured for the backend application using Kubernetes re
     |                GET /fetch                           |
     |                                                     |
     +-----------------------------------------------------+
+=======
+
+>>>>>>> ab0d64793e4c444266f05392e3a5ed8a4ac226d7
