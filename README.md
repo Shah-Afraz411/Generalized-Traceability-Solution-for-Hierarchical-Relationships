@@ -207,4 +207,4 @@ Horizontal scaling is configured for the backend application using Kubernetes re
     +-----------------------------------------------------+
 =======
 
->>>>>>> ab0d64793e4c444266f05392e3a5ed8a4ac226d7
+
