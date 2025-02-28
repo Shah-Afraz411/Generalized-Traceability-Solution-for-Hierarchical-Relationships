@@ -66,7 +66,7 @@ The goal of this project is to provide a scalable and efficient backend solution
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/hierarchical-traceability.git
+   git clone https://github.com/Shah-Afraz411/Generalized-Traceability-Solution-for-Hierarchical-Relationships.git
    cd hierarchical-traceability
 2. **Install Dependencies**:
    ```bash
